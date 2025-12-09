@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.omega.trinity">
 
+<uses-permission android:name="android.permission.RECORD_AUDIO" />
+
     <application
         android:label="Omega Trinity"
         android:theme="@android:style/Theme.Material.Light.NoActionBar">
