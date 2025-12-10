@@ -1,7 +1,7 @@
 # ⚡ OMEGA TRINITY CORE: Relatório de Supremacia Mobile
 
 > **Status:** `CLASSIFIED` -> `PUBLIC`
-> **Operador:** [Seu Nome/Empresa]
+> **Operador:** Adriano José BHD
 > **Sistema:** OMEGA AI Integration Protocol
 
 ---
